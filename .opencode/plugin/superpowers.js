@@ -1,4 +1,4 @@
-/**
+  /**
  * Superpowers plugin for OpenCode.ai
  *
  * Provides custom tools for loading and discovering skills,
